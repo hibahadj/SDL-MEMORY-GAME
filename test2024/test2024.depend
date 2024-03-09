@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1705074631 source:c:\users\dell\desktop\codeblock\test2024\date.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1705797986 source:c:\users\dell\desktop\codeblock\test2024\main.c
+	<string.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	"input.h"
+	"menu.h"
+	"game.h"
+	"sauv.h"
+	"cpu.h"
+
+1706326480 source:c:\users\dell\desktop\codeblock\test2024\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<SDL2/SDL_mixer.h>
+	"how.h"
+	"score.h"
+
+1706326480 source:c:\users\dell\desktop\codeblock\test2024\pause.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+
+1706326480 source:c:\users\dell\desktop\codeblock\test2024\sauv.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1704406861 c:\users\dell\desktop\codeblock\test2024\date.h
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1706326480 source:c:\users\dell\desktop\codeblock\test2024\score.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"sauv.h"
+
+1706326480 source:c:\users\dell\desktop\codeblock\test2024\game.c
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"pause.h"
+	"verifie.h"
+	"sauv.h"
+
+1704406861 c:\users\dell\desktop\codeblock\test2024\pause.h
+
+1704173803 c:\users\dell\desktop\codeblock\test2024\menu.h
+
+1705797546 c:\users\dell\desktop\codeblock\test2024\sauv.h
+
+1706326480 source:c:\users\dell\desktop\codeblock\test2024\input.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+
+1704934832 c:\users\dell\desktop\codeblock\test2024\input.h
+
+1705797578 c:\users\dell\desktop\codeblock\test2024\game.h
+	"sauv.h"
+
+1705096737 source:c:\users\dell\desktop\codeblock\test2024\mute.c
+
+1706326480 source:c:\users\dell\desktop\codeblock\test2024\how.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+
+1705098828 c:\users\dell\desktop\codeblock\test2024\how.h
+
+1705350824 source:c:\users\dell\desktop\codeblock\test2024\ma_bibliot.c
+	"ma_bibliot.h"
+	<stdio.h>
+	<stdlib.h>
+
+1705280408 c:\users\dell\desktop\codeblock\test2024\ma_bibliot.h
+
+1705797268 c:\users\dell\desktop\codeblock\test2024\verifie.h
+
+1706521592 source:c:\users\dell\desktop\codeblock\test2024\verifie.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	"ma_bibliot.h"
+
+1705530242 c:\users\dell\desktop\codeblock\test2024\score.h
+
+1706326526 source:c:\users\dell\desktop\codeblock\test2024\cpu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"verifieCpu.h"
+	"won.h"
+
+1706326480 source:c:\users\dell\desktop\codeblock\test2024\verifiecpu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<string.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"ma_bibliot.h"
+	"verifieCpu.h"
+
+1705797327 c:\users\dell\desktop\codeblock\test2024\verifiecpu.h
+
+1705797978 c:\users\dell\desktop\codeblock\test2024\cpu.h
+
+1705530242 c:\users\dell\desktop\codeblock\test2024\won.h
+
+1706326480 source:c:\users\dell\desktop\codeblock\test2024\won.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+

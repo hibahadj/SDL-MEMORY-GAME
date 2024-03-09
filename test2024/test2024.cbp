@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="test2024" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/test2024" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="libmingw32" />
+					<Add library="libSDL2main" />
+					<Add library="libSDL2" />
+					<Add library="libSDL2_ttf" />
+					<Add library="libSDL2_mixer" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/test2024" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="cpu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu.h" />
+		<Unit filename="game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="game.h" />
+		<Unit filename="how.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="how.h" />
+		<Unit filename="input.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="input.h" />
+		<Unit filename="ma_bibliot.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ma_bibliot.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="pause.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pause.h" />
+		<Unit filename="sauv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sauv.h" />
+		<Unit filename="score.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="score.h" />
+		<Unit filename="verifie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verifie.h" />
+		<Unit filename="verifieCpu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verifieCpu.h" />
+		<Unit filename="won.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="won.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

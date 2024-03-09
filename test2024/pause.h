@@ -1,0 +1,6 @@
+#ifndef PAUSE_H_INCLUDED
+#define PAUSE_H_INCLUDED
+
+
+
+#endif // PAUSE_H_INCLUDED
